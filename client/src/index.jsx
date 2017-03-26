@@ -13,7 +13,7 @@ class App extends React.Component {
       .then(data => data.json())
       .then(posts => console.log(posts));
   }
-
+  
   render() {
     return <p> Hello React! </p>;
   }
