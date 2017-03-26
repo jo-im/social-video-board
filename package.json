@@ -1,0 +1,22 @@
+{
+  "name": "social-video-board",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jo-im/social-video-board.git"
+  },
+  "author": "Jo and Jay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jo-im/social-video-board/issues"
+  },
+  "homepage": "https://github.com/jo-im/social-video-board#readme",
+  "dependencies": {
+    "webpack": "^2.3.2"
+  }
+}
